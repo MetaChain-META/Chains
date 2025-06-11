@@ -1,0 +1,23 @@
+{
+  "name": "Eleanor",
+  "title": "meta Testnet Eleanor",
+  "chain": "META",
+  "rpc": ["https://rpc.metachain.cash/eleanor", "wss://ws.metachain.cash/eleanor"],
+  "faucets": ["https://faucet.metachain.cash/eleanor"],
+  "nativeCurrency": {
+    "name": "Eleanor Metacoin",
+    "symbol": "META",
+    "decimals": 18
+  },
+  "infoURL": "https://eleanor.metachain.cash",
+  "shortName": "META",
+  "chainId": 1967,
+  "networkId": 1967,
+  "explorers": [
+    {
+      "name": "metaexplorer-eleanor",
+      "url": "https://explorer.metachain.cash/eleanor",
+      "standard": "EIP3091"
+    }
+  ]
+}
